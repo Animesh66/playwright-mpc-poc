@@ -1,21 +1,10 @@
 {
-  "inputs": [],
-  "servers": {
-    "aisquare-playwright": {
+  "mcpServers": {
+    "playwright": {
       "command": "npx",
       "args": [
-        "aisquare-playwright-mcp@latest"
-      ],
-      "type": "stdio"
-    },
-    "playwright-test": {
-      "type": "stdio",
-      "command": "npx",
-      "args": [
-        "playwright",
-        "run-test-mcp-server"
-      ],
-      "cwd": "${workspaceFolder}"
+        "@playwright/mcp@latest"
+      ]
     }
   }
 }
