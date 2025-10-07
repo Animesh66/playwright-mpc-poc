@@ -29,4 +29,3 @@ mode: 'agent'
 4. Formulate a test scenario based on your exploration.
 5. Generate a Playwright test based on the test scenario.
 6. Ensure both positive and negative test cases are covered.
-
