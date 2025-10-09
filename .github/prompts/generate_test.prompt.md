@@ -1,6 +1,6 @@
 ---
 description: Generate a Playwright test based on a scenario provided in natural language.
-tools: ['playwright']
+tools: ['edit', 'runNotebooks', 'search', 'new', 'runCommands', 'runTasks', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'githubRepo', 'extensions', 'todos', 'runTests', 'playwright']
 mode: 'agent'
 ---
 # Playwright Test Scenario Generator
